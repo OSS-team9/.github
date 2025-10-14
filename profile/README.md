@@ -1,7 +1,6 @@
 # 👋 Welcome to OSS-team9
 
 We build open-source projects for **Android**, **Backend**, and **Computer Vision**.  
-Our goal is to collaborate, learn, and share practical development experiences.
 
 ---
 
