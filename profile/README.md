@@ -1,12 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to OSS-team9
 
-<!--
+We build open-source projects for **Android**, **Backend**, and **Computer Vision**.  
+Our goal is to collaborate, learn, and share practical development experiences.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🚀 Projects
+| Platform | Repository | Tech Stack |
+|-----------|-------------|-------------|
+| Android | [OSS-Android](https://github.com/OSS-team9/OSS-Android) | Kotlin |
+| Backend | [OSS-Backend](https://github.com/OSS-team9/OSS-Backend) | flask |
+| CV | [OSS-CV](https://github.com/OSS-team9/OSS-CV) | - |
+
+> ✨ “OSS-team9 is where cross-domain collaboration meets creativity.”
