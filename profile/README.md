@@ -1,4 +1,4 @@
-# 👋 Welcome to OSS-team9
+# 👋 Welcome to 오늘:하루
 
 We build open-source projects for **Android**, **Backend**, and **Computer Vision**.  
 
