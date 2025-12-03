@@ -1,4 +1,4 @@
-(.github/git-page.png)
+<img src="https://github.com/OSS-team9/.github/blob/main/git-page.png"/>
 
 # 👋 Welcome to 오늘:하루
 
