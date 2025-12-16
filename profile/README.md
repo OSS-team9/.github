@@ -6,7 +6,7 @@
 ### 📄 가이드 문서
 
 [가이드 문서](https://github.com/OSS-team9/.github/blob/fe75ffea60db46800327a61d55c69e5bff3d2041/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B8%B0%EC%B4%88%EC%84%A4%EA%B3%84_%EB%A7%A4%EB%89%B4%EC%96%BC_9%EC%A1%B0.pdf)
-
+(.github/오픈소스기초설계_매뉴얼_9조.pdf 에 위치해 있습니다.)
 
 ---
 ### 🚀 Projects
