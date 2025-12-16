@@ -9,6 +9,6 @@
 |-----------|-------------|-------------|
 | Android | [OSS-Android](https://github.com/OSS-team9/OSS-Android) | Kotlin |
 | Backend | [OSS-Backend](https://github.com/OSS-team9/OSS-Backend) | flask |
-| CV | [OSS-CV](https://github.com/OSS-team9/OSS-CV) | - |
+| CV | [OSS-CV](https://github.com/OSS-team9/OSS-CV) | TensorFlow (Keras) |
 
 > ✨ “OSS-team9 is where cross-domain collaboration meets creativity.”
