@@ -3,11 +3,16 @@
 <img src="https://github.com/OSS-team9/.github/blob/main/git-page .png"/>
 
 ---
+### 📄 가이드 문서
 
+[가이드 문서 다운로드](.github/오픈소스기초설계_매뉴얼_9조.pdf)
+
+
+---
 ### 🚀 Projects
 | Platform | Repository | Tech Stack |
 |-----------|-------------|-------------|
-| Android | [OSS-Android](https://github.com/OSS-team9/OSS-Android) | Kotlin |
+| Frontend | [OSS-Frontend](https://github.com/OSS-team9/OSS-Frontend) | NextJS |
 | Backend | [OSS-Backend](https://github.com/OSS-team9/OSS-Backend) | flask |
 | CV | [OSS-CV](https://github.com/OSS-team9/OSS-CV) | TensorFlow (Keras) |
 
